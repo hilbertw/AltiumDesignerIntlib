@@ -10,7 +10,7 @@
 
 ###Altium Designer Intlib V0.0.1###
 
-1.Analog IC
+####1.Analog IC####
 ```
     |---ADA4700-1           Operational Amplifier
     |---AMC1200
@@ -24,7 +24,7 @@
     |---REF5025
     |---TPS63001            dc-dc
 ```
-[2]Components
+####2.Components####
 ```
     |---6N136               6N136
     |---BAT                 Multicell Battery
@@ -69,7 +69,7 @@
     |---XTAL_PWR
     |---ZENER               Zener Diode
 ```
-[3]Connectors
+####3.Connectors####
 ```
    |---CON10
    |---CON13
@@ -95,7 +95,7 @@
    |---RJ45                
    |---TP
 ```
-[4]Digital IC
+####4.Digital IC####
 ```
    |---74HC14              74HC14
    |---74HC573             74HC573
@@ -117,7 +117,7 @@
    |---ULN2003A
    |---ULN2803A
 ```
-[5]Microcontrollers
+####5.Microcontrollers####
 ```
    |---LPC1758FBD80        ARM Cortex M3,LQFP80 Footprint
    |---LPC1768FBD100       ARM Cortex M3,LQFP100 Footprint
@@ -127,7 +127,7 @@
    |---STC89C52RC          80C51 8-Bit Flash Microcontroller Family, 8 kB Flash
    |---STM32F103ZET6
 ```
-[6]Module
+####6.Module####
 ```
    |---B0505LS             
    |---CTM1050T
