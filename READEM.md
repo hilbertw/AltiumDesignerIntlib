@@ -1,16 +1,17 @@
-###Öª´´Ñ§Ôº[zicreate.com]Ô­´´Altium Designer¼¯³É¿â£¬ÎÒÃÇ»á²»¶ÏµÄÕûÀíÍêÉÆ¸ü¶àµÄÆ÷¼ş###
-####ÏÂÔØµØÖ·£º####
->** ¹ÙÍø:**[http://zicreate.com/c/5640473a1aeee345906f5fa3][2]     [×ÊÁÏÏÂÔØ]
+###çŸ¥åˆ›å­¦é™¢[zicreate.com]åŸåˆ›Altium Designeré›†æˆåº“ï¼Œæˆ‘ä»¬ä¼šä¸æ–­çš„æ•´ç†å®Œå–„æ›´å¤šçš„å™¨ä»¶###
+####ä¸‹è½½åœ°å€ï¼š####
+>** å®˜ç½‘:**[http://zicreate.com/c/5640473a1aeee345906f5fa3][2]     [èµ„æ–™ä¸‹è½½]
 >** Github:**[https://github.com/zicreate/AltiumDesignerIntlib][1]
 > 
   [1]: https://github.com/zicreate/AltiumDesignerIntlib
   [2]: http://zicreate.com/c/5640473a1aeee345906f5fa3
-Èç¹ûÄúÔÚÊ¹ÓÃ¹ı³ÌÖĞ·¢ÏÖÓĞ´íÎóµÄµØ·½£¬Çë¼°Ê±¸æÖªÎÒÃÇ£¬ÎÒÃÇ»á¼°Ê±¿±Îó¸üĞÂ¡£
-*±¾¼¯³É¿âÓÉ zicreate.com jason ´´×÷£¬²ÉÓÃÖªÊ¶¹²ÏíÊğÃû3.0ÖĞ¹ú´óÂ½Ğí¿ÉĞ­Òé½øĞĞĞí¿É¡£*
+å¦‚æœæ‚¨åœ¨ä½¿ç”¨è¿‡ç¨‹ä¸­å‘ç°æœ‰é”™è¯¯çš„åœ°æ–¹ï¼Œè¯·åŠæ—¶å‘ŠçŸ¥æˆ‘ä»¬ï¼Œæˆ‘ä»¬ä¼šåŠæ—¶å‹˜è¯¯æ›´æ–°ã€‚
+*æœ¬é›†æˆåº“ç”± zicreate.com jason åˆ›ä½œï¼Œé‡‡ç”¨çŸ¥è¯†å…±äº«ç½²å3.0ä¸­å›½å¤§é™†è®¸å¯åè®®è¿›è¡Œè®¸å¯ã€‚*
 
 ###Altium Designer Intlib V0.0.1###
 
 [1]Analog IC
+``
      |---ADA4700-1           Operational Amplifier
      |---AMC1200
      |---AMS1117-3.3         3.3V  3-Terminal Adjustable Positive Voltage Regulator
@@ -22,7 +23,7 @@
      |---MIC29302
      |---REF5025
      |---TPS63001            dc-dc
-
+``
 [2]Components
      |---6N136               6N136
      |---BAT                 Multicell Battery
