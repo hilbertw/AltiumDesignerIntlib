@@ -1,6 +1,7 @@
 ###知创学院[zicreate.com]原创Altium Designer集成库，我们会不断的整理完善更多的器件###
 ####下载地址：####
 >**官网:**[http://zicreate.com/c/5640473a1aeee345906f5fa3][2]     [资料下载]
+>
 >**Github:**[https://github.com/zicreate/AltiumDesignerIntlib][1]
 > 
   [1]: https://github.com/zicreate/AltiumDesignerIntlib
