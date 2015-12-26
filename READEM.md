@@ -10,20 +10,19 @@
 
 ###Altium Designer Intlib V0.0.1###
 
-[1]Analog IC
-``
-     |---ADA4700-1           Operational Amplifier
-     |---AMC1200
-     |---AMS1117-3.3         3.3V  3-Terminal Adjustable Positive Voltage Regulator
-     |---ATT7022
-     |---DAC8551             DAC8551
-     |---DAC8562
-     |---L7805               3-Terminal Adjustable Positive Voltage Regulator
-     |---LM2576
-     |---MIC29302
-     |---REF5025
-     |---TPS63001            dc-dc
-``
+1.Analog IC
+|---ADA4700-1           Operational Amplifier
+|---AMC1200
+|---AMS1117-3.3         3.3V  3-Terminal Adjustable Positive Voltage Regulator
+|---ATT7022
+|---DAC8551             DAC8551
+|---DAC8562
+|---L7805               3-Terminal Adjustable Positive Voltage Regulator
+|---LM2576
+|---MIC29302
+|---REF5025
+|---TPS63001            dc-dc
+
 [2]Components
      |---6N136               6N136
      |---BAT                 Multicell Battery
