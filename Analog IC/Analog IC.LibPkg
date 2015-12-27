@@ -51,7 +51,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YJIJTWVQ
 
 [Document2]
 DocumentPath=Analog IC.SchLib
@@ -68,15 +68,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FFTPNWNQ
-
-[GeneratedDocument1]
-DocumentPath=Analog IC.csv
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Analog IC.rep
-DItemRevisionGUID=
+DocumentUniqueId=FJIBPDSE
 
 [OutputGroup1]
 Name=Netlist Outputs

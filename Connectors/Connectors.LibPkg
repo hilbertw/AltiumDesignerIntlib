@@ -68,15 +68,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HNSUUYGH
-
-[GeneratedDocument1]
-DocumentPath=Connectors.csv
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Connectors.rep
-DItemRevisionGUID=
+DocumentUniqueId=VGDMFLHL
 
 [OutputGroup1]
 Name=Netlist Outputs
