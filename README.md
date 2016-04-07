@@ -8,6 +8,16 @@
 如果您在使用过程中发现有错误的地方，请及时告知我们，我们会及时勘误更新。
 *本集成库由 zicreate.com jason 创作，采用知识共享署名3.0中国大陆许可协议进行许可。*
 
+###Altium Designer Intlib V0.0.3###
+####4.Digital IC####
+```
+     |---DAC8541              增加DAC8541DAC芯片
+```
+####2.Components####
+```
+     |---SIP3                 增加SIP3插座
+```
+
 
 ###Altium Designer Intlib V0.0.2###
 ####1.Analog IC####
