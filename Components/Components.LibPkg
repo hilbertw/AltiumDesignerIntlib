@@ -70,14 +70,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TUSIDFKU
 
-[GeneratedDocument1]
-DocumentPath=Components.csv
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Components.rep
-DItemRevisionGUID=
-
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
