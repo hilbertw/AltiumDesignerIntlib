@@ -51,7 +51,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NRIKCGQI
 
 [Document2]
 DocumentPath=Connectors.SchLib
@@ -68,7 +68,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VGDMFLHL
+DocumentUniqueId=ILGEOOOK
 
 [OutputGroup1]
 Name=Netlist Outputs
